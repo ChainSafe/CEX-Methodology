@@ -9,6 +9,15 @@
         "currency": "ETH",
         "repos": [
             "https://github.com/ethereum/go-ethereum"
+            "https://github.com/paritytech/parity-ethereum"
+            "https://github.com/status-im/nimbus"
+            "https://github.com/sigp/lighthouse"
+            "https://github.com/prysmaticlabs/prysm"
+            "https://github.com/ChainSafeSystems/lodestar"
+            "https://github.com/ethereum/trinity"
+            "https://github.com/ethereum/solidity"
+            "https://github.com/ethereum/vyper"
+            
         ]
     },
     {
