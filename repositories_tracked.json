@@ -18,6 +18,8 @@
             "https://github.com/ethereum/solidity"
             "https://github.com/ethereum/vyper"
             "https://github.com/ethereum/py-evm/"
+            "https://github.com/PegaSysEng/pantheon/"
+            "https://github.com/PegaSysEng/artemis"
             
         ]
     },
