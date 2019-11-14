@@ -9,18 +9,19 @@
         "currency": "ETH",
         "repos": [
             "https://github.com/ethereum/go-ethereum"
-            "https://github.com/paritytech/parity-ethereum"
-            "https://github.com/status-im/nimbus"
-            "https://github.com/sigp/lighthouse"
-            "https://github.com/prysmaticlabs/prysm"
-            "https://github.com/ChainSafeSystems/lodestar"
-            "https://github.com/ethereum/trinity"
-            "https://github.com/ethereum/solidity"
-            "https://github.com/ethereum/vyper"
-            "https://github.com/ethereum/py-evm/"
-            "https://github.com/PegaSysEng/pantheon/"
-            "https://github.com/PegaSysEng/artemis"
-            
+            "https://github.com/paritytech/parity-ethereum",
+            "https://github.com/status-im/nimbus",
+            "https://github.com/sigp/lighthouse",
+            "https://github.com/prysmaticlabs/prysm",
+            "https://github.com/ChainSafe/lodestar",
+            "https://github.com/ethereum/trinity",
+            "https://github.com/ethereum/solidity",
+            "https://github.com/ethereum/vyper",
+            "https://github.com/ethereum/py-evm/",
+            "https://github.com/PegaSysEng/pantheon/",
+            "https://github.com/PegaSysEng/artemis",
+            "https://github.com/ethers-io/ethers.js",
+            "https://github.com/ethereum/web3.js/"
         ]
     },
     {
